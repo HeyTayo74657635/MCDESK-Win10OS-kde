@@ -23,6 +23,7 @@ ButtonWidth=28
 ButtonWidthClose=44
 ButtonWidthMaximizeRestore=44
 ButtonWidthMinimize=44
+ButtonWidthMenu=16
 
 ButtonWidthKeepabove=43
 ButtonWidthKeepbelow=43
@@ -39,6 +40,11 @@ PaddingTop=32
 PaddingBottom=76
 PaddingRight=47
 PaddingLeft=47
+
+TitleEdgeTop=0
+TitleEdgeLeft=6
+TitleEdgeRight=0
+TitleEdgeBottom=0
 
 TitleHeightMaximized=28
 TitleEdgeTopMaximized=0
